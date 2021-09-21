@@ -1,10 +1,10 @@
 //Imports
-import MyComponent from './my-component';
+import TestUI from './test-ui';
 
 //Code
 function App() {
   return (
-    <MyComponent />
+    <TestUI />
   );
 }
 
