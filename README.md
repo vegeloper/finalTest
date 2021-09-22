@@ -1,6 +1,6 @@
-# Project Title
+# Sending email with nodejs and mailgun
 
-Sending email with nodejs and mailgun
+NodeMailer manages everything, just follow the steps
 
 ## Description
 
