@@ -1,5 +1,5 @@
 //Imports
-import TestUI from './test-ui';
+import TestUI from './components/test-ui';
 
 //Code
 function App() {
