@@ -10,7 +10,7 @@ This is the code repo of my article "Sending email with nodejs and mailgun".
 ## Getting Started
 Clone this repo and start your journey with Nodemailer package in NodeJS. 
 It is a super helful tool for handling our connection to SMTP providers such as MailGun. 
-Just follow the steps in the tutorial and you will have sent your first email in a few minutes. 
+Just follow the steps in the tutorial and you will have your first email sent in just a few minutes. 
 
 Enjoy your way...
 
@@ -30,15 +30,15 @@ Enjoy your way...
 
 ### Installing
 
-* To setup the program, First install all dependencies server-side.
+* To setup the program, First install all the server-side dependencies.
 ```
 npm i
 ```
-* Then, install client-side dependencies with the following command:
+* Then, to install the client-side dependencies, execute the following command:
 ```
 npm run install-client
 ```
-* Finally, build the client with this code:
+* Finally, to build the client code, just run this command:
 ```
 npm run build-client
 ```
@@ -49,7 +49,7 @@ npm run build-client
 ```
 npm start
 ```
-* To only run client side, just run the client command.
+* To only run the client side, just run the client command.
 ```
 npm run client
 ```
